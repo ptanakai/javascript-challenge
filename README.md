@@ -2,7 +2,7 @@
 
 ## Instruções
 
-* Realize o download/clone do projeto. Caso tenham dificuldades, recomendo este post [A Beginner’s Git and GitHub Tutorial](http://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
+* Realize o download/clone do projeto. Caso tenham dificuldades, recomendo este post [A Beginner's Git and GitHub Tutorial](http://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
 * Crie uma pasta com o seu nome dentro deste projeto
 * Crie um arquivo pra cada solução de questão na pasta com seu nome no padrão 01-answer.js, 02-answer.js e etc.
 * A entrega do projeto vai ser via Pull Request aqui neste repositório, caso tenham dificuldade me avisem.
@@ -30,17 +30,17 @@ Fernando_Farias/
 Ex: Input = 10, Output = 23
 
 2. Crie uma função que receba um array de letras do alfabeto consecutivas e retorne a letra que está faltando.
-Ex: Input = [‘a’, ‘b’, ‘c’, ‘e’, ‘f’, ‘g’], Output = ‘d’
+Ex: Input = ['a', 'b', 'c', 'e', 'f', 'g'], Output = 'd'
 
 3. Crie uma função que receba uma lista de números e strings e retorne uma nova lista apenas com os números.
-Ex: Input = [1, 2, ‘a’, ‘b’], Output = [1, 2]
+Ex: Input = [1, 2, 'a', 'b'], Output = [1, 2]
 
 4. Crie uma função receba uma string com números separados e retorne o maior e o menor número.
-Ex: Input = ‘1 2 3 4 5’, Output = ‘5 1’
+Ex: Input = '1 2 3 4 5', Output = '5 1'
 
 5. Crie uma função que receba uma string e a retorne em pares de dois caracteres. Se a quantidade de caracteres for impar, retornar o caracter _ como par.
-Ex: Input = ‘abcde’, Output = [‘ab’, ‘cd’, ‘e_’] 
-Ex: Input = ‘abcd’, Output = [‘ab’, ‘cd’]
+Ex: Input = 'abcde', Output = ['ab', 'cd', 'e_'] 
+Ex: Input = 'abcd', Output = ['ab', 'cd']
 
 ## Critérios
 * Cada questão deve ser implementada em um arquivo JS separado.
